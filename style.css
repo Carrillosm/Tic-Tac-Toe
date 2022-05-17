@@ -1,0 +1,41 @@
+
+
+
+.grid-container{
+
+    display:grid;
+    grid-template-columns: auto auto auto;
+    background-color:cornflowerblue;
+    padding:15px;
+    
+}
+
+.grid-item{
+    background-color:blueviolet;
+    
+}
+
+
+
+
+.container{
+    background-color:rgb(225, 181, 236);
+        display:grid;
+        grid-template-columns: auto auto auto;
+        padding:10px;
+        margin-left:30%;
+        margin-right:30%;
+        width:25vw;
+        height:30vh;
+    
+        
+    }
+    
+    .square{
+        text-align:center;
+        font-size:2em;
+    }
+    
+    
+
+
